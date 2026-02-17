@@ -13,7 +13,9 @@
  */
 
 /** The current version of the vega-sample-package, matching package.json. */
-export const VERSION = '0.1.0';
+export const VERSION = '0.2.0';
 
 export * from './content-launcher';
 export * from './media-controls';
+export * from './performance-monitor';
+export * from './overdraw-detector';

@@ -1,6 +1,6 @@
 {
   "name": "vega-sample-package",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Sample React Native + TypeScript package demonstrating Vega OS Content Launcher and Media Controls APIs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
